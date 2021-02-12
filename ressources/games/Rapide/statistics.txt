@@ -1,0 +1,6 @@
+level_loose=2
+level_win=2
+max_level=1
+number_of_games=20
+plates_loose=57
+plates_pushed=13

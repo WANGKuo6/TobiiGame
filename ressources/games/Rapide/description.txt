@@ -1,0 +1,3 @@
+Ce jeu fait apparaître, à intervalle régulier, des cercles qu¿il faut fixer pour les faire disparaître.
+Si le joueur ne les fait pas disparaître pendant un temps, ils disparaissent d'eux-mêmes.
+ Le but est de tous les faire disparaître avant qu'ils ne le fassent eux-mêmes.

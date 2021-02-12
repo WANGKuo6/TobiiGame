@@ -1,0 +1,6 @@
+Objectif: Traversez le labyrinthe sans toucher le bord du labyrinthe. 
+Avant le début du jeu, vous devez déplacer votre curseur sur la zone rectangulaire spécifiée. 
+Vous avez deux secondes pour terminer le travail.
+Une erreur, et c'est perdu !
+
+Bonne chance ! ;)

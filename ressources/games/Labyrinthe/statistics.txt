@@ -1,0 +1,3 @@
+level_loose=191
+level_win=3
+number_of_games=204
