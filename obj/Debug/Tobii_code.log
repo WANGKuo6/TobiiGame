@@ -1,0 +1,45 @@
+﻿  main.cpp
+  RememberGame.cpp
+  Case.cpp
+  Window.cpp
+  Utils.cpp
+c:\users\yangy\desktop\tobii-game-box-master\code\src\utils.cpp(81): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\yangy\desktop\tobii-game-box-master\code\src\utils.cpp(82): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  TobiiCursor.cpp
+  TimeCounter.cpp
+  SubMenu.cpp
+  StatisticsManager.cpp
+  Statistics.cpp
+  Settings.cpp
+  MusicManager.cpp
+  MouseCursor.cpp
+  Menu.cpp
+  Leaderboard.cpp
+  Label.cpp
+  InputManager.cpp
+  GazeObject.cpp
+  RapideGame.cpp
+c:\users\yangy\desktop\tobii-game-box-master\code\src\game\rapide\rapidegame.cpp(44): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\yangy\desktop\tobii-game-box-master\code\src\frame.h(88): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  c:\users\yangy\desktop\tobii-game-box-master\code\src\frame.h(87): note: 编译 类 模板 成员函数 "int core::fx::Frame<game::rpg::Plate>::getSize(void)" 时
+  c:\users\yangy\desktop\tobii-game-box-master\code\src\game\rapide\rapidegame.cpp(226): note: 参见对正在编译的函数 模板 实例化“int core::fx::Frame<game::rpg::Plate>::getSize(void)”的引用
+  c:\users\yangy\desktop\tobii-game-box-master\code\src\game\rapide\rapidegame.h(44): note: 参见对正在编译的 类 模板 实例化 "core::fx::Frame<game::rpg::Plate>" 的引用
+  PlateBasic.cpp
+  正在生成代码...
+  正在编译...
+  plate.cpp
+  LabyrintheGame.cpp
+c:\users\yangy\desktop\tobii-game-box-master\code\src\game\labyrinthe\labyrinthegame.cpp(159): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\yangy\desktop\tobii-game-box-master\code\src\game\labyrinthe\labyrinthegame.cpp(160): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  LabyCase.cpp
+  GameObject.cpp
+  Game.cpp
+  FrameCounter.cpp
+  CursorMovementManager.cpp
+  Cursor.cpp
+  Config.cpp
+  Button.cpp
+  Application.cpp
+  mainTest.cpp
+  正在生成代码...
+  Tobii_code.vcxproj -> C:\Users\yangy\Desktop\Tobii-Game-Box-master\code\bin\tobii_exec-debug.exe
